@@ -1,0 +1,47 @@
+{
+    home: `<article class="article">
+            <h1>${data.partial1.heading}</h1>
+             <img src="${data.partial1.imageURL}" alt="${data.partial1.imageAlt}">
+             <p>${data.partial1.bodyText}</p>
+             </article>`,
+    portfolio: `<article class="portfolio">
+            <h1>${data.partial2.heading}</h1>
+             <div class="pieces">
+                <section>
+                    <iframe ${data.partial2.videoURL1}></iframe>
+                    <h2>${data.partial2.video1Heading}</h2>
+                    <p>${data.partial2.video1Text}</p>
+                </section>
+            
+                <section>
+                    <iframe ${data.partial2.videoURL2}></iframe>
+                    <h2>${data.partial2.video2Heading}</h2>
+                    <p>${data.partial2.video2Text}</p>
+                </section>
+                
+                <section>
+                    <img src="${data.partial2.imageURL1}">
+                    <h2>${data.partial2.piece1Heading}</h2>
+                    <p>${data.partial2.piece1Text}</p>
+                </section>
+
+                <section>
+                    <img src="${data.partial2.imageURL2}">
+                    <h2>${data.partial2.piece2Heading}</h2>
+                    <p>${data.partial2.piece2Text}</p>
+                </section>
+
+                <section>
+                    <img src="${data.partial2.imageURL3}">
+                    <h2>${data.partial2.piece3Heading}</h2>
+                    <p>${data.partial2.piece3Text}</p>
+                </section>
+
+                <section>
+                    <img src="${data.partial2.imageURL4}">
+                    <h2>${data.partial2.piece4Heading}</h2>
+                    <p>${data.partial2.piece4Text}</p>
+                </section>
+             </div>
+             </article>`,
+}

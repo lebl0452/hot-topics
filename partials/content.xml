@@ -1,0 +1,27 @@
+{
+    partial1: {
+        heading: 'The Value of Money',
+        imageURL: "img/home/pig-bank.jpg",
+        imageAlt: "An image of a piggy bank",
+        bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget felis eget nunc lobortis mattis aliquam faucibus purus in. Adipiscing commodo elit at imperdiet dui accumsan sit amet. Ultrices in iaculis nunc sed augue lacus viverra. Sit amet venenatis urna cursus eget nunc scelerisque. Purus in mollis nunc sed id semper. A diam sollicitudin tempor id eu nisl nunc mi. Montes nascetur ridiculus mus mauris vitae ultricies leo integer. In ante metus dictum at tempor. Eget mi proin sed libero enim sed. Sit amet purus gravida quis blandit turpis cursus in hac. Diam vel quam elementum pulvinar etiam non quam. Mattis rhoncus urna neque viverra justo nec. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Aliquet enim tortor at auctor urna. Auctor neque vitae tempus quam pellentesque nec nam.'
+        partial2: {
+            heading: 'Portfolio',
+            videoURL1: "width=\"100%\" height=\"70%\" src=\"https://www.youtube.com/embed/3J5M1OX1mn8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen",
+            video1Heading: "Piece title",
+            video1Text: "Piece Description",
+            videoURL2: "width=\"100%\" height=\"70%\" src=\"https://www.youtube.com/embed/SMcq1RlA1vY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen",
+            video2Heading: "Piece title",
+            video2Text: "Piece Description",
+            imageURL1: "img/portfolio/ground-prototype.jpg",
+            piece1Heading: "Piece Title",
+            piece1Text: "Piece Description",
+            imageURL2: "img/portfolio/mco-prototype.jpg",
+            piece2Heading: "Piece Title",
+            piece2Text: "Piece Description",
+            imageURL3: "img/portfolio/panels-prototype.jpg",
+            piece3Heading: "Piece Title",
+            piece3Text: "Piece Description",
+            imageURL4: "img/portfolio/business-card-patrick.jpg",
+            piece4Heading: "Piece Title",
+            piece4Text: "Piece Description",},
+}
